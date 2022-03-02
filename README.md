@@ -14,7 +14,7 @@
 <!--  - [Recusos úteis](#recursos-úteis) -->
 <!-- - [Autor](#autor) -->
 <!-- - [Agradecimentos](#agradecimentos) -->
-<!-- - [Informações](#informações) -->
+- [Informações](#informações)
 
 <!-- OVERVIEW -->
 <!-- ## VISTA POR CIMA -->
@@ -49,7 +49,7 @@
 <!-- INFORMATION -->
 ## INFORMAÇÕES
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2F&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
+![Visitors](https://api.visitorbadge.io/api/visitors?path=Devsgeeknerd%2Fexe-cri-um-men-com-dro-dow&label=Visitantes&labelColor=%23f9e64f&countColor=%23008000&style=plastic "Total de Visitas")
 &nbsp;
 ![followrs](https://img.shields.io/github/followers/Devsgeeknerd?style=plastic&label=SEGUIDORES&labelColor=f9e64f "Total de Seguidores")
 &nbsp;
