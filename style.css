@@ -29,3 +29,7 @@
 .menu li:hover .submenu {
     display: block;
 }
+
+.submenu .menu li {
+    display: block;
+}
