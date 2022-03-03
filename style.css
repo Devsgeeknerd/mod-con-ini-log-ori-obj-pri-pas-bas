@@ -3,3 +3,9 @@
     margin: 0px;
     padding: 0px;
 }
+
+.menu a {
+    color: #ffffff;
+    display: block;
+    padding: 10px;
+}
