@@ -9,3 +9,8 @@
     display: block;
     padding: 10px;
 }
+
+.menu a:hover {
+    background-color: #ffffff;
+    color: #0000ff;
+}
