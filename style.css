@@ -25,3 +25,7 @@
     position: absolute;
     display: none;
 }
+
+.menu li:hover .submenu {
+    display: block;
+}
