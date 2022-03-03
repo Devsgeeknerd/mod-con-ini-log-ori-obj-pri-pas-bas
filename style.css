@@ -19,3 +19,9 @@
     list-style: none;
     display: inline-block;
 }
+
+.submenu {
+    min-width: 136px;
+    position: absolute;
+    display: none;
+}
